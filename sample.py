@@ -60,3 +60,52 @@ var="c\new\text"
 print(var)
 var=r"c:\new\text"
 print(var)
+
+
+num_data=10
+count=0
+first=0
+second=1
+while(count<num_data):
+      print(first)
+      add=first+second
+      first=second
+      second=add
+      count+=1
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
